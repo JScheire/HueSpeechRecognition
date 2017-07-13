@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/rayscheire/Downloads/QuickStartApp/app/build/intermediates/res/merged/debug/drawable-mdpi/image_clear.png",
+        "source": "/Users/rayscheire/Downloads/QuickStartApp/app/src/main/res/drawable-mdpi/image_clear.png"
+    },
+    {
+        "merged": "/Users/rayscheire/Downloads/QuickStartApp/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/rayscheire/Downloads/QuickStartApp/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]
